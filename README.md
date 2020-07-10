@@ -1,2 +1,2 @@
-# Trex-Game
-It's the same game you play whenever your Wifi is out :)
+# trex
+Chrome's trex game created using p5.play
